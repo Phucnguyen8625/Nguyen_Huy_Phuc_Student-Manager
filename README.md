@@ -20,3 +20,9 @@ wp-content/plugins/student-manager/
 
 ## 3. Kết quả (Screenshots)
 
+### Giao diện thêm sinh viên (Backend)
+![Giao diện Admin](assets/images/anh_ma_SV.png)
+
+### Bảng danh sách sinh viên (Frontend)
+![Giao diện Frontend](assets/images/Danh_sach_sinh_vien.png)
+
