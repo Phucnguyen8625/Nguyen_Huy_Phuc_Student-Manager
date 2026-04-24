@@ -1,0 +1,37 @@
+.student-manager-container {
+    overflow-x: auto;
+    margin: 20px 0;
+}
+
+.student-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1em;
+    font-family: inherit;
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.student-table th,
+.student-table td {
+    padding: 12px 15px;
+    border: 1px solid #e2e8f0;
+    text-align: left;
+}
+
+.student-table th {
+    background-color: #f8fafc;
+    font-weight: 600;
+    color: #334155;
+    text-transform: uppercase;
+    font-size: 0.85em;
+    letter-spacing: 0.05em;
+}
+
+.student-table tbody tr:nth-child(even) {
+    background-color: #f1f5f9;
+}
+
+.student-table tbody tr:hover {
+    background-color: #e2e8f0;
+}
