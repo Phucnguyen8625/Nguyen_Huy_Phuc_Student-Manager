@@ -4,7 +4,7 @@
  * Plugin URI: https://example.com/
  * Description: Plugin quản lý sinh viên với Custom Post Type và Shortcode.
  * Version: 1.0.0
- * Author: Cấn Đức Điệp
+ * Author: Nguyễn Huy Phúc
  * Author URI: https://example.com/
  * Text Domain: student-manager
  */
